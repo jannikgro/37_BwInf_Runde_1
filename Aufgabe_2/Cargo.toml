@@ -1,0 +1,12 @@
+[package]
+name = "twist"
+version = "1.0.0"
+authors = ["Jan Niklas Groeneveld <jan.groeneveld@rhs-bs.de>"]
+
+[dependencies]
+clap = "2.32.0"
+regex = "1.0.5"
+lazy_static = "1.1.0"
+encoding_rs = "0.8.10"
+rand = "0.5.5"
+encoding_rs_io = "0.1.3"
